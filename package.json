@@ -1,0 +1,11 @@
+{
+	"name": "com.unity.tooncharactershadow",
+	"displayName":"Toon Chracter Shadow",
+	"version": "0.1.0",
+	"unity": "2022.3",
+	"description": "Toon Chracter Shadow Package for URP Forward rendering.",
+	"dependencies":
+	{
+	 "com.unity.render-pipelines.core": "14.0.0"
+	}
+}
